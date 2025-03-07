@@ -1,0 +1,83 @@
+{
+  "Expressive_Writing_Therapy": {
+    "structure": {
+      "step_1": "Initial Free-Writing: The writer is encouraged to write continuously for ten minutes without structuring thoughts, releasing raw emotions and memories without concern for grammar or coherence.",
+      "step_2": "Story Construction: The writer rewrites the experience with structure, including setting, characters, event details, emotional reactions, and meaning.",
+      "step_3": "Rewriting and Editing: The final step encourages reflection and rewriting the experience for clarity, finding new perspectives, growth, or closure."
+    },
+    "criteria": {
+      "trauma": "Users mentioning past trauma, grief, PTSD, or highly emotional experiences.",
+      "emotional_difficulty": "Users who struggle to talk about their experiences may find writing more accessible.",
+      "negative_thoughts": "Helps break mental loops of intrusive memories and ruminative thinking.",
+      "emotional_confusion": "If the user expresses overwhelm or emotional distress without clear reasoning."
+    },
+    "summarization": {
+      "emotional_themes": "What emotions stood out the most in your writing?",
+      "cognitive_shifts": "Did your perspective on the event change after writing?",
+      "meaning_making": "What did you learn from revisiting this experience?",
+      "next_steps": "Would you like to rewrite this experience with a different perspective?"
+    }
+  },
+  "Positive_Psychology_Gratitude_Journaling": {
+    "structure": {
+      "gratitude_visit": "Write a 300-word gratitude letter to someone who positively impacted your life and deliver it in person.",
+      "three_good_things": "Write down three positive things that happened each day and reflect on why they happened.",
+      "signature_strengths": "Identify your top five character strengths and apply them in new ways throughout the week.",
+      "savoring": "Deliberately focus on and extend positive experiences in daily life."
+    },
+    "criteria": {
+      "low_positive_emotions": "Users feeling unmotivated, neutral, or uninspired.",
+      "negative_thinking": "Users focusing on what’s wrong rather than what’s good.",
+      "disconnection": "Users feeling disconnected from others.",
+      "life_satisfaction": "Users expressing a desire to live a more fulfilling life."
+    },
+    "summarization": {
+      "gratitude_themes": "What themes of gratitude emerged in your writing today?",
+      "positive_emotions": "How did writing about gratitude affect your mood today?",
+      "strengths_recognition": "Which personal strengths did you use or discover in today’s journaling?",
+      "future_actions": "Would you like to incorporate one of today’s insights into your daily routine?"
+    }
+  },
+  "Narrative_Therapy": {
+    "structure": {
+      "externalizing": "The problem is viewed as separate from the individual (e.g., 'The Anxiety' rather than 'I am anxious').",
+      "re_authoring": "Identifying neglected aspects of the user’s story that highlight strengths and resilience.",
+      "landscape_of_action": "Focuses on what happened in the user’s life (e.g., events, actions taken).",
+      "landscape_of_identity": "Focuses on the meaning of those actions and how they shape the user's self-perception.",
+      "definitional_ceremonies": "Users retell their re-authored stories to reinforce the narrative shift."
+    },
+    "criteria": {
+      "self_identification_with_problems": "Users saying things like 'I am broken' or 'I always fail'.",
+      "history_of_trauma": "Users with long-standing negative self-perception due to past events.",
+      "low_self_worth": "Users feeling defined by failures, past mistakes, or a specific identity.",
+      "reconstructing_meaning": "Users wanting to understand their life story in a new way."
+    },
+    "summarization": {
+      "perspective_shift": "Did your view of yourself or the problem change after writing?",
+      "strengths_agency": "What does your writing reveal about your strengths or values?",
+      "future_narrative": "How would you like to continue this new perspective in your daily life?",
+      "ceremony_approach": "From what you’ve written today, I see a story of resilience—where despite challenges, you have found ways to keep moving forward."
+    }
+  },
+  "Cognitive_Behavioral_Therapy": {
+    "structure": {
+      "mood_tracking": "Users identify their emotions and assign a numerical rating (0-100%) to gauge intensity.",
+      "thought_records": "Users document situations that triggered emotions and identify automatic thoughts.",
+      "cognitive_restructuring": "Users evaluate evidence for and against negative thoughts and develop alternative balanced thoughts.",
+      "behavioral_experiments": "Users test alternative thoughts by engaging in new behaviors.",
+      "core_belief_challenge": "Users identify and challenge deep-seated negative beliefs."
+    },
+    "criteria": {
+      "negative_thoughts": "Users frequently saying 'I always mess up' or 'Nobody likes me'.",
+      "anxiety": "Users prone to excessive worry and worst-case scenario thinking.",
+      "emotional_dysregulation": "Users experiencing mood swings, stress, anger, guilt, or shame.",
+      "structured_self_improvement": "Users preferring clear, logical exercises for self-improvement."
+    },
+    "summarization": {
+      "thought_patterns": "What negative thought patterns did you identify today?",
+      "evidence_analysis": "Did you find evidence to challenge your negative thoughts?",
+      "emotional_tracking": "How did your mood change after restructuring your thoughts?",
+      "behavioral_experiments": "What small action will you take this week to challenge your negative thoughts?"
+    }
+  }
+}
